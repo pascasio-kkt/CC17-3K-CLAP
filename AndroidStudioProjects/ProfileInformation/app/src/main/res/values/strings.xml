@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profile Information</string>
+    <string name="user_name">Juan Dela Cruz</string>
+    <string name="contact_label">Contact:</string>
+    <string name="contact_value">+63 912 345 6789</string>
+    <string name="email_label">Email:</string>
+    <string name="email_value">juan.delacruz@example.com</string>
+    <string name="password_label">Password:</string>
+    <string name="password_value">••••••••</string>
+    <string name="edit_profile_button_text">Edit Profile</string>
+    <string name="back_button_description">Back button</string>
+</resources>
