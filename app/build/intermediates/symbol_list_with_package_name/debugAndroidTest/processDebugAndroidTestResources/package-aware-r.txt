@@ -1,0 +1,3 @@
+com.example.welcomepage.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
