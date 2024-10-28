@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#007EF3</color>
+    <color name="grey">#615F5F</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Signup_page</string>
+    <string name="arrow">Arrow back</string>
+    <string name="btn">CREATE ACCOUNT</string>
+    <string name="hint">USERNAME</string>
+    <string name="hint1">EMAIL</string>
+    <string name="hint2">PASSWORD</string>
+    <string name="hint3">CONFIRM PASSWORD</string>
+    <string name="txt">Create your</string>
+    <string name="txt1">Account</string>
+    <string name="txt2">Please fill in your information below</string>
+    <string name="txt3">Already have an account?</string>
+    <string name="txt4">Login</string>
+    <style name="Base.Theme.Signup_page" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="android:statusBarColor">@color/blue</item>
+    </style>
+    <style name="Theme.Signup_page" parent="Base.Theme.Signup_page"/>
+</resources>
