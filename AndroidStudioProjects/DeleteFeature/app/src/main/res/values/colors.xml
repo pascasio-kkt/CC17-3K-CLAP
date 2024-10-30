@@ -1,0 +1,9 @@
+<resources>
+    <color name="button_blue">#0066CC</color>
+    <color name="button_gray">#555555</color>
+    <color name="text_red">#CC0000</color>
+    <color name="text_black">#000000</color>
+    <color name="text_gray">#666666</color>
+    <color name="background_color">#F5F5F5</color> <!-- Example light gray -->
+    <color name="blue">#2196F3</color> <!-- Example blue color -->
+</resources>
