@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FFFF00</color>
+    <color name="input_background">#FFFFFF</color>
+    <color name="hint_color">#757575</color>
+    <color name="stroke_color">#E0E0E0</color>
+    <color name="blue_primary">#0277BD</color>
+    <color name="background_light">#F5F7FA</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="dropdown_background">#FFFFFF</color>
+    <color name="dropdown_text">#212121</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF4081</color>
+
+    <color name="error">#B00020</color>
+
+    <color name="gray_light">#F5F5F5</color>
+
+    <color name="light_gray">#F0F0F0</color>
+
+    <color name="blue_primary_container">#D7E8FF</color>
+    <color name="blue_primary_on_container">#001D38</color>
+    <color name="pink_secondary">#D92A8B</color>
+    <color name="pink_secondary_container">#FFD9E9</color>
+    <color name="pink_secondary_on_container">#3F0024</color>
+
+    <color name="blue_primary_variant">#004B86</color>
+    <color name="red">#FF0000</color>
+    <color name="primary">#2196F3</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+
+
+    <color name="status_submitted">#FFA000</color>
+    <color name="status_under_review">#2196F3</color>
+    <color name="status_in_progress">#4CAF50</color>
+    <color name="status_resolved">#757575</color>
+    <color name="error_color">#F44336</color>
+
+
+
+
+</resources>
