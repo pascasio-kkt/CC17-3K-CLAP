@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Feedback and Reporting System</string>
+    <string name="feedback_reports_title">Feedback &amp; Reports</string>
+    <string name="report_type_hint">Report Type</string>
+    <string name="report_type_description">Select the type of report</string>
+    <string name="description_hint">Description</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="update_status">Update Status</string>
+    <string name="your_reports">Your Reports</string>
+    <string name="status_description">Status Description</string>
+    <string name="timestamp_description">Timestamp Description</string>
+    <string name="report_type_selector_description">Select type of report</string>
+    <string name="description_input_description">Enter report description</string>
+    <string name="submit_button_description">Submit report</string>
+    <string name="reports_list_description">List of your submitted reports</string>
+    <string name="report_card_description">Report submission form</string>
+    <string name="your_reports_section_description">Your submitted reports section</string>
+    <string name="select_report_type_helper">Choose the type of report you want to submit</string>
+    <string name="enter_description_hint">Provide details about your report</string>
+    <string name="select_report_type">Select Report Type</string>
+    <string name="report_number">Report #%d</string>
+    <string name="previous_status">Previous: %1$s</string>
+    <string name="new_status">Updated to: %1$s</string>
+    <string name="no_comment">No comment</string>
+    <string name="status_previous">Previous: %1$s</string>
+    <string name="status_updated">Updated to: %1$s</string>
+    <string name="status_format">Status: %1$s</string>
+    <string name="report_type">Report Type</string>
+
+</resources>
