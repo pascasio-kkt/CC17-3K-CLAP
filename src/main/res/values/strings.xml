@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Categories</string>
+    <string name="select_category">Select Category</string>
+    <string name="menu_icon_description">Menu Icon</string>
+    <string name="water_usage">Water Usage</string>
+    <string name="water_quality_reporting">Water Quality Reporting</string>
+    <string name="account_management">Account Management</string>
+    <string name="maintenance_notifications">Maintenance Notifications</string>
+    <string name="conservation_tips">Conservation Tips</string>
+    <string name="user_feedback">User Feedback</string>
+</resources>
