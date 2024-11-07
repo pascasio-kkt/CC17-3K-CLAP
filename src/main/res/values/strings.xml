@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlueWave </string>
+    <string name="menu_icon_description">Menu Icon</string>
+    <string name="welcome_text">Welcome to BlueWave</string>
+    <string name="search_something">Search something,,,</string> <!-- Fixed extra commas -->
+    <string name="banner_image_description">Dashboard Banner Image</string>
+    <string name="usage_categories">Usage Categories</string>
+    <string name="all">All</string>
+    <string name="daily">Daily</string>
+    <string name="monthly">Monthly</string>
+    <string name="yearly">Yearly</string>
+    <string name="category_banner">Category Banner</string>
+    <string name="daily_usage_image_description">Daily usage banner</string>
+    <string name="monthly_usage_image_description">Monthly usage banner</string>
+    <string name="yearly_usage_image_description">Yearly usage banner</string>
+    <string name="daily_text">Daily Usage</string>
+    <string name="monthly_text">Monthly Usage</string>
+    <string name="yearly_text">Yearly Trend</string>
+    <string name="daily_usage_card_description">Card showing daily water usage statistics</string> <!-- Added description -->
+    <string name="monthly_usage_card_description">Card showing monthly water usage statistics</string> <!-- Added description -->
+    <string name="yearly_usage_card_description">Card showing yearly water usage statistics</string> <!-- Added description -->
+    <string name="daily_button_description">View daily water usage</string>
+    <string name="monthly_button_description">View monthly water usage</string>
+    <string name="yearly_button_description">View yearly water usage</string>
+</resources>
