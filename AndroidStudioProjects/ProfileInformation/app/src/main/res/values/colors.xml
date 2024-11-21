@@ -1,0 +1,7 @@
+<resources>
+    <color name="lightBlue">#3A87D0</color>
+    <color name="primaryTextColor">#000000</color> <!-- Example color -->
+    <color name="white">#FFFFFF</color>
+    <color name="darkColor">#6200EE</color> <!-- Add this line if missing -->
+    <color name="accentColor">#03DAC5</color>
+</resources>
