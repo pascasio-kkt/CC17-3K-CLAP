@@ -1,6 +1,113 @@
 <resources>
-    <string name="app_name">GreenPractices</string>
+    <string name="app_name">BlueWave</string>
+    <string name="welcome">Welcome To</string>
+    <string name="intro_message">Optimize Water. Ensure Sustainability</string>
+    <string name="welcome_screen_image">Water</string>
+    <string name="go_to_sign_in">LOGIN</string>
+    <string name="no_account_yet_msg">CREATE AN ACCOUNT</string>
+
+    <string name="back_button">Back</string>
+    <string name="create">Create New</string>
+    <string name="acc">Account</string>
+    <string name="fill_info">Please fill in your information below.</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="sample_email">Email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="cnfirm">Confirm your password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="mess">Already have an account?</string>
+    <string name="sign">Signin</string>
+
+    <string name="welcome2">Welcome</string>
+    <string name="back">Back</string>
+    <string name="greet">Happy to have you back! Login to continue</string>
+    <string name="text">Forgot Password?</string>
+    <string name="btn">LOGIN</string>
+    <string name="texts1">Don\'t have an account?</string>
+    <string name="texts2">Signup</string>
+
+    <string name="menu_icon_description">Menu Icon</string>
+    <string name="welcome_text">Welcome to BlueWave</string>
+    <string name="search_something">Search something,,,</string> <!-- Fixed extra commas -->
+    <string name="banner_image_description">Dashboard Banner Image</string>
+    <string name="usage_categories">Usage Categories</string>
+    <string name="all">All</string>
+    <string name="daily">Daily</string>
+    <string name="monthly">Monthly</string>
+    <string name="yearly">Yearly</string>
+    <string name="category_banner">Category Banner</string>
+    <string name="daily_usage_image_description">Daily usage banner</string>
+    <string name="monthly_usage_image_description">Monthly usage banner</string>
+    <string name="yearly_usage_image_description">Yearly usage banner</string>
+    <string name="daily_text">Daily Usage</string>
+    <string name="monthly_text">Monthly Usage</string>
+    <string name="yearly_text">Yearly Trend</string>
+    <string name="daily_usage_card_description">Card showing daily water usage statistics</string>
+    <string name="monthly_usage_card_description">Card showing monthly water usage statistics</string>
+    <string name="yearly_usage_card_description">Card showing yearly water usage statistics</string>
+    <string name="daily_button_description">View daily water usage</string>
+    <string name="monthly_button_description">View monthly water usage</string>
+    <string name="yearly_button_description">View yearly water usage</string>
+
+    <string name="select_category">Select Category</string>
+    <string name="water_usage">Water Usage</string>
+    <string name="water_quality_reporting">Water Quality Reporting</string>
+    <string name="account_management">Account Management</string>
+    <string name="maintenance_notifications">Maintenance Notifications</string>
+    <string name="conservation_tips">Conservation Tips</string>
+    <string name="user_feedback">User Feedback</string>
+
     <string name="ctip1">Read some conservation tips about Water Usages.</string>
     <string name="ctip2">Read some tips on Proper waste disposal to avoid water contamination.</string>
     <string name="ctip3">Read some tips in Storing Water effectively.</string>
+
+    <string name="title">Profile Information</string>
+    <string name="name">User Name</string>
+    <string name="contact_label">Contact:</string>
+    <string name="email_label">Email:</string>
+    <string name="password_label">Password:</string>
+    <string name="edit_profile_button_text">Edit Profile</string>
+
+    <string name="feedback_reports_title">Feedback &amp; Reports</string>
+    <string name="report_type_hint">Report Type</string>
+    <string name="report_type_description">Select the type of report</string>
+    <string name="description_hint">Description</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="update_status">Update Status</string>
+    <string name="your_reports">Your Reports</string>
+    <string name="status_description">Status Description</string>
+    <string name="timestamp_description">Timestamp Description</string>
+    <string name="report_type_selector_description">Select type of report</string>
+    <string name="description_input_description">Enter report description</string>
+    <string name="submit_button_description">Submit report</string>
+    <string name="reports_list_description">List of your submitted reports</string>
+    <string name="report_card_description">Report submission form</string>
+    <string name="your_reports_section_description">Your submitted reports section</string>
+    <string name="select_report_type_helper">Choose the type of report you want to submit</string>
+    <string name="enter_description_hint">Provide details about your report</string>
+    <string name="select_report_type">Select Report Type</string>
+    <string name="report_number">Report #%d</string>
+    <string name="previous_status">Previous: %1$s</string>
+    <string name="new_status">Updated to: %1$s</string>
+    <string name="no_comment">No comment</string>
+    <string name="status_previous">Previous: %1$s</string>
+    <string name="status_updated">Updated to: %1$s</string>
+    <string name="status_format">Status: %1$s</string>
+    <string name="report_type">Report Type</string>
+
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="fill_details">Please fill in your details</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_contact">Enter Contact</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="change_password">Change Password</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="back_button_description">Go Back</string>
+    <string name="appname">Delete Feature</string>
+    <string name="please_fill_in_your_details">Please fill in your details</string>
+    <string name="error_empty_fields">error_empty_fields\n</string>
+
 </resources>
+

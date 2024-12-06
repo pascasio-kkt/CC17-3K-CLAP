@@ -6,25 +6,34 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo_jpeg"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
-        android:theme="@style/Theme.GreenPractices"
+        android:theme="@style/Theme.BlueWave"
         tools:targetApi="31">
+
         <activity
-            android:name=".GreenActivity"
+            android:name=".MainActivity"
+            android:theme="@style/Theme.App.BlueWave"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".WaterUsageActivity" />
-        <activity android:name=".WasteManagementActivity" />
-        <activity android:name=".EnergyEfficiencyActivity" />
-        <activity android:name=".DashboardActivity" />
+
+        <!-- Login Activity -->
+        <activity android:name="com.example.bluewave.ui.auth.LoginActivity"
+            android:theme="@style/Theme.App.BlueWave"
+            android:exported="true">
+        </activity>
+
+        <!-- Signup Activity -->
+        <activity android:name="com.example.bluewave.ui.auth.SignUpActivity"
+            android:theme="@style/Theme.App.BlueWave"
+            android:exported="true">
+        </activity>
 
         <meta-data
             android:name="preloaded_fonts"
